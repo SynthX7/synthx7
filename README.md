@@ -20,10 +20,14 @@ Estou a procura de um emprego de menor aprendiz que me proporcione minha primeir
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Rafael](https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/SynthX7">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  </a>
+</div>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=radical)
-
+    
 ## Contato
 
 Você pode entrar em contato comigo através das seguintes plataformas:
