@@ -4,7 +4,7 @@
 <p><em>Desenvolvedor Geral</em></p>
 
 
-<h2">Contato</h2>
+<h2>Contato</h2>
 <p>Você pode entrar em contato comigo através das seguintes plataformas:</p>
 <ul>
     <li><strong>Instagram:</strong> <a href="https://www.instagram.com/synthx_7/">@synthx_7</a></li>
