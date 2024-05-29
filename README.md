@@ -11,21 +11,22 @@ Olá! Meu nome é Rafael Antônio. Tenho experiência em criar sites usando HTML
 Estou a procura de um emprego de menor aprendiz que me proporcione minha primeira experiência trabalhando com programação, além de que irei desenvolver novas habilidades e proporcionar minha liberdade financeira.
 
 ## Habilidades
-
-![](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/-Lua-333?style=flat&logo=lua)
-![](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6)
+![Lua](https://img.shields.io/badge/-Lua-333?style=flat&logo=lua)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ## Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/SynthX7">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=false&theme=dark" alt="Estatísticas do GitHub">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
 </div>
+
+![Snake animation](https://github.com/synthx7/synthx7/blob/output/github-contribution-grid-snake.svg)
 
     
 ## Contato
