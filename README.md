@@ -25,9 +25,6 @@ Estou a procura de um emprego de menor aprendiz que me proporcione minha primeir
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
 </div>
-
-![Snake animation](https://github.com/synthx7/synthx7/blob/output/github-contribution-grid-snake.svg)
-
     
 ## Contato
 
