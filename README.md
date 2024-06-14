@@ -12,7 +12,7 @@ Olá! Eu sou Rafael, um entusiasta da programação e design com foco em Full St
 
 Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
 
-<img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png">
+<img size: 10px; src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png">
 
 ## Estatísticas do GitHub
 
