@@ -1,18 +1,40 @@
 # Hello, World! 🌍
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30%">
-</div>
+<style>
+  .container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+  }
+  .texto {
+    flex: 1; /* Ocupa todo o espaço restante */
+    padding-right: 20px; /* Espaço entre o texto e a imagem */
+  }
+  .imagem {
+    max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho máximo da div */
+    height: auto; /* Mantém a proporção da imagem */
+  }
+</style>
 
 Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
+<hr>
 
-## Sobre Mim
+<div class="container">
+  <div class="texto">
+    Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na 
+  área de tecnologia.
+  </div>
+  <div class="imagem">
+    <img src="https://media1.tenor.com/m/BdOHYc9fC9EAAAAd/watermelon.gif">
+  </div>
+</div>
 
-Olá! Eu sou Rafael, um entusiasta da programação e design com foco em Full Stack. Tenho experiência em desenvolvimento web utilizando HTML, CSS, JavaScript, e também me aventuro no desenvolvimento de jogos com Lua no Roblox. Estou constantemente aprendendo e buscando expandir meu conhecimento em linguagens como Python, C/C++, e Java.
-
-Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
-
-<img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="50">
+<hr>
+<img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40">
+<img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40">
+<img src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
+<img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" width="40">
+<img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40">
+<img src="https://pics.freeicons.io/uploads/icons/png/7267630261656670996-512.png" width="40">
 
 
 ## Estatísticas do GitHub
