@@ -1,32 +1,38 @@
 # Hello, World! 🌍
 
-Meu nome é Rafael Antônio.
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30%">
+</div>
+
+Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
 
 ## Sobre Mim
 
-Olá! Eu sou Rafael, um entusiasta da programação com experiência em desenvolvimento web utilizando HTML, CSS e um pouco de JavaScript. Também me aventuro no desenvolvimento de jogos no Roblox usando Lua e tenho conhecimentos básicos em Python.
+Olá! Eu sou Rafael, um entusiasta da programação e design com foco em Full Stack. Tenho experiência em desenvolvimento web utilizando HTML, CSS, JavaScript, e também me aventuro no desenvolvimento de jogos com Lua no Roblox. Estou constantemente aprendendo e buscando expandir meu conhecimento em linguagens como Python, C/C++, e Java.
 
-Atualmente, estou buscando uma oportunidade de trabalho como aprendiz para iniciar minha carreira na área de programação, onde poderei desenvolver novas habilidades e contribuir com minha paixão pela tecnologia.
+Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
 
 ## Habilidades
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6)
-![Lua](https://img.shields.io/badge/-Lua-333?style=flat&logo=lua)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
+- Desenvolvimento Web: HTML, CSS, JavaScript
+- Linguagens de Programação: Lua, Python (básico)
+- Design Gráfico: Criação de layouts e gráficos para web
+- Edição de Vídeo: Ferramentas diversas para projetos pessoais e escolares
 
 ## Estatísticas do GitHub
 
-<div>
+<div align="center">
   <a href="https://github.com/SynthX7">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=false&theme=dark" alt="Estatísticas do GitHub">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
 </div>
 
 ## Contato
 
-Você pode entrar em contato comigo através das seguintes plataformas:
-
-- **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
-- **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
+<div align="center">
+  Você pode entrar em contato comigo através das seguintes plataformas:
+  
+  - **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
+  - **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
+</div>
