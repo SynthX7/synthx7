@@ -9,7 +9,7 @@ Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por pr
     <p>Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.</p>
   </div>
   <div class="imagem">
-    <img src="https://media1.tenor.com/m/BdOHYc9fC9EAAAAd/watermelon.gif" width="200">
+    <img src="https://c.tenor.com/BdOHYc9fC9EAAAAd/tenor.gif" width="200">
   </div>
 </div>
 
