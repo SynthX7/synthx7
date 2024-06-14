@@ -12,12 +12,7 @@ Olá! Eu sou Rafael, um entusiasta da programação e design com foco em Full St
 
 Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
 
-## Habilidades
-
-- Desenvolvimento Web: HTML, CSS, JavaScript
-- Linguagens de Programação: Lua, Python (básico)
-- Design Gráfico: Criação de layouts e gráficos para web
-- Edição de Vídeo: Ferramentas diversas para projetos pessoais e escolares
+<img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png">
 
 ## Estatísticas do GitHub
 
@@ -33,6 +28,6 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 <div align="center">
   Você pode entrar em contato comigo através das seguintes plataformas:
   
-  - **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
-  - **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
+   **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
+   **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
 </div>
