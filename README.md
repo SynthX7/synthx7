@@ -1,4 +1,4 @@
-# Hello, World! 🌍
+<h1 class="titulo">Hello, World! 🌍</h1>
 
 Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
 
@@ -36,6 +36,13 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 </div>
 
 <style>
+
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+  .titulo {
+  font-family: "Fira Code", monospace;
+  }
+  
   .container {
     display: flex;
     align-items: center;
