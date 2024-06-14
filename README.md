@@ -4,7 +4,7 @@ Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por pr
 
 ---
 Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
-<img src="https://c.tenor.com/BdOHYc9fC9EAAAAd/tenor.gif" width="200">
+<a href="https://im.ge/i/tenor.KWIxHD"><img src="https://i.im.ge/2024/06/14/KWIxHD.tenor.gif" alt="tenor" border="0"></a>
 
 
 ---
@@ -15,7 +15,6 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
   <img src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
   <img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" width="40">
   <img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40">
-  <img src="https://pics.freeicons.io/uploads/icons/png/7267630261656670996-512.png" width="40">
 </div>
 
 ## Estatísticas do GitHub
