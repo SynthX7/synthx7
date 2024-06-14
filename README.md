@@ -1,19 +1,21 @@
 # Hello, World! 🌍
 
-<style>
-  .container {
-    display: flex;
-    align-items: center; /* Centraliza verticalmente */
-  }
-  .texto {
-    flex: 1; /* Ocupa todo o espaço restante */
-    padding-right: 20px; /* Espaço entre o texto e a imagem */
-  }
-  .imagem {
-    max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho máximo da div */
-    height: auto; /* Mantém a proporção da imagem */
-  }
-</style>
+<head>
+  <style>
+    .container {
+      display: flex;
+      align-items: center; /* Centraliza verticalmente */
+    }
+    .texto {
+      flex: 1; /* Ocupa todo o espaço restante */
+      padding-right: 20px; /* Espaço entre o texto e a imagem */
+    }
+    .imagem {
+      max-width: 100%; /* Garante que a imagem não ultrapasse o tamanho máximo da div */
+      height: auto; /* Mantém a proporção da imagem */
+    }
+  </style>
+</head>
 
 Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
 <hr>
