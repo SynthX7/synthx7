@@ -6,7 +6,7 @@ Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por pr
 
 <div class="container">
   <div class="texto">
-    Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
+    <p>Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.</p>
   </div>
   <div class="imagem">
     <img src="https://media1.tenor.com/m/BdOHYc9fC9EAAAAd/watermelon.gif" width="200">
@@ -39,3 +39,25 @@ Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por pr
    **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
    **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
 </div>
+
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .texto {
+    flex: 1;
+    margin-right: 20px;
+  }
+
+  .imagem {
+    flex: 1;
+  }
+
+  img {
+    vertical-align: middle;
+  }
+</style>
