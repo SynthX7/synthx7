@@ -9,7 +9,7 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 
 ---
 
-<div alight="center">
+<div alight="center"; border="5px">
   <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40">
   <img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40">
   <img src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
