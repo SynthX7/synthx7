@@ -12,17 +12,17 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 
 ---
 
-<div style="text-align: center;">
-  <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40">
-  <img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40">
-  <img src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
-  <img src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" width="40">
-  <img src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40">
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40">
+  <img align="center" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40">
+  <img align="center" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
+  <img align="center" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" width="40">
+  <img align="center" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/632690741557997006-512.png" width="40">
 </div>
 
 ## Estatísticas do GitHub
 
-<div style="text-align: center;">
+<div style="display: inline_block"><br>
   <a href="https://github.com/SynthX7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
