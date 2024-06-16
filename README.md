@@ -2,15 +2,9 @@
 
 Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
 
----
-
 Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
 
-<div style="text-align: center;">
-  <img src="https://c.tenor.com/BdOHYc9fC9EAAAAd/tenor.gif" alt="Tenor GIF">
-</div>
-
----
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +15,7 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
   <img align="center" alt="Lua" height="35" width="35" src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png">
 </div>
 
----
+##
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/SynthX7">
@@ -29,6 +23,8 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
 </div>
+
+##
 
 <div> 
     <a href="https://www.instagram.com/synthx_7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
