@@ -20,8 +20,7 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-## Estatísticas do GitHub
+---
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/SynthX7">
@@ -30,9 +29,9 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
   </a>
 </div>
 
-## Contato
-
-Você pode entrar em contato comigo através das seguintes plataformas:
-
-- **Instagram:** [@synthx_7](https://www.instagram.com/synthx_7/)
-- **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5516994620899)
+<div> 
+    <a href="https://www.instagram.com/synthx_7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://discord.gg/z9eCKkH84n" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rafael.antonio.200923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
