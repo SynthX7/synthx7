@@ -10,7 +10,7 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 
 ---
 <center>
-  <div class="selos" just border="10px">
+  <div class="selos" style="text-align: center;">
     <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" width="40">
     <img src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" width="40">
     <img src="https://pics.freeicons.io/uploads/icons/png/3500035511551941187-512.png" width="40">
@@ -21,7 +21,7 @@ Atualmente, estou buscando oportunidades para desenvolver minhas habilidades té
 
 ## Estatísticas do GitHub
 <center>
-  <a href="https://github.com/SynthX7">
+  <a href="https://github.com/SynthX7" style="text-align: center;">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthx7&layout=compact&theme=dark" alt="Linguagens mais usadas">
   </a>
