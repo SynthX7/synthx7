@@ -1,8 +1,10 @@
 # Hello, World! 🌍
 
-Meu nome é Rafael Antônio Leite Taveira, tenho 14 anos e sou apaixonado por programação e tecnologia.
+Meu nome é Rafael, tenho 14 anos e sou apaixonado por aprender novas coisas.
 
 Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
+
+Meu foco agora é Backend, mas no futuro vou expandir para Fullstack e quem sabe até Ciber-Segurança.
 
 ##
 
