@@ -1,10 +1,8 @@
 # Hello, World! 🌍
 
-Meu nome é Rafael, tenho 14 anos e sou apaixonado por aprender novas coisas.
+## Yes, i am a..
+<img src="https://i.pinimg.com/originals/b4/00/bb/b400bba24a3ac713c5611facf4376d7e.jpg">
 
-Atualmente, estou buscando oportunidades para desenvolver minhas habilidades técnicas, contribuir com projetos significativos e me preparar para uma carreira sólida na área de tecnologia.
-
-Meu foco agora é Backend, mas no futuro vou expandir para Fullstack e quem sabe até Ciber-Segurança.
 
 ##
 
