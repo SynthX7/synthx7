@@ -15,8 +15,8 @@
 ##
 
 ## Languages: <br>
-  ### Portuguese 🇧🇷 <br>
-  ### English 🇺🇸
+### Portuguese 🇧🇷 <br>
+### English 🇺🇸
   
 ##
 
