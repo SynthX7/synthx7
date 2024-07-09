@@ -14,6 +14,13 @@
 
 ##
 
+Languages:
+<div style="display: inline_block">
+  Portuguese 🇧🇷 
+  English 🇺🇸
+</div>
+##
+
 <div style="display: inline_block"><br>
   <a href="https://github.com/SynthX7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=synthx7&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
