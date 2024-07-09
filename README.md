@@ -2,8 +2,6 @@
 
 ## Fullstack Developer
 
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" height="35" width="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png">
