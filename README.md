@@ -14,11 +14,10 @@
 
 ##
 
-Languages:
-<div style="display: inline_block">
-  Portuguese 🇧🇷 
-  English 🇺🇸
-</div>
+## Languages: <br>
+  ### Portuguese 🇧🇷 <br>
+  ### English 🇺🇸
+  
 ##
 
 <div style="display: inline_block"><br>
