@@ -1,6 +1,6 @@
 # Hello, World!
 
-## Fullstack Developer
+## Fullstack Beginner and Data Analyst
 ### i <code>console.log("love")</code> programming
 
 <div style="display: inline_block"><br>
