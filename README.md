@@ -1,6 +1,7 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fkylewithem%2Fart%2FInside-Out-2-2024-Png-993834195&psig=AOvVaw3DXl6Vd2cNhsi9sNlvlLni&ust=1722731899141000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDVxMzK14cDFQAAAAAdAAAAABAJ">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5ae195f-e639-4f3e-87e0-6199d10d2fb9/dgfpbdf-9dce4482-a358-48a6-b487-f1811985b625.png/v1/fill/w_936,h_804/inside_out_2__2024__png_by_kylewithem_dgfpbdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA0IiwicGF0aCI6IlwvZlwvYzVhZTE5NWYtZTYzOS00ZjNlLTg3ZTAtNjE5OWQxMGQyZmI5XC9kZ2ZwYmRmLTlkY2U0NDgyLWEzNTgtNDhhNi1iNDg3LWYxODExOTg1YjYyNS5wbmciLCJ3aWR0aCI6Ijw9OTM2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0hdYrpH3mjdsYL0s6DMjuIdqfxba8BlwbS7AfWciqew" alt="my favorite movie hihi">
+my favorite movie :)
 
----
+##
 
 ## Fullstack Beginner and Data Analyst
 ### i <code>console.log("love")</code> programming
