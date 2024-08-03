@@ -27,7 +27,7 @@
 
 ##
 
-<div style="display: flex;"> 
+<div style="display: flex; align-itens: center;"> 
     <a href="https://www.instagram.com/synthx_7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  <a href="https://discord.gg/z9eCKkH84n" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
