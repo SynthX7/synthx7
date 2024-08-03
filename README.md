@@ -13,8 +13,8 @@
 ##
 
 ### Languages: <br>
-### Portuguese 🇧🇷 <br>
-### English 🇺🇸
+### Portuguese 🇧🇷 / Native<br>
+### English 🇬🇧 / Studying
   
 ##
 
