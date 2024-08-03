@@ -1,4 +1,6 @@
-# Hello, World!
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fkylewithem%2Fart%2FInside-Out-2-2024-Png-993834195&psig=AOvVaw3DXl6Vd2cNhsi9sNlvlLni&ust=1722731899141000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDVxMzK14cDFQAAAAAdAAAAABAJ">
+
+---
 
 ## Fullstack Beginner and Data Analyst
 ### i <code>console.log("love")</code> programming
