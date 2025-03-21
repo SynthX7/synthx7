@@ -29,9 +29,3 @@
  
   <a href = "mailto:rafael.antonio.200923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
- 
-
-##
-<div>
-  <img src="https://ibb.co/39vspNzT" alt="pinkie pie" width="202" height="189">
-</div>
