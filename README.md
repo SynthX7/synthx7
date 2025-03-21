@@ -33,5 +33,9 @@
  <a href="https://discord.gg/z9eCKkH84n" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafael.antonio.200923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+ 
+<a href="https://im.ge/i/image-removebg-preview.pUFAWM">
+    <img src="https://im.ge/i/image-removebg-preview.pUFAWM.png" 
+         alt="pinkie pie" width="202" height="189">
+</a>
 
-<a href="https://im.ge/i/pUFAWM"><img src="https://i.im.ge/2025/03/21/pUFAWM.image-removebg-preview.th.png" alt="image removebg preview" border="0" /></a>
