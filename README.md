@@ -32,5 +32,6 @@
  
 
 ##
- 
-<img src="https://ibb.co/39vspNzT" alt="pinkie pie" width="202" height="189">
+<div>
+  <img src="https://ibb.co/39vspNzT" alt="pinkie pie" width="202" height="189">
+</div>
