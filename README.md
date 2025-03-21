@@ -36,6 +36,6 @@
  
 <a href="https://im.ge/i/image-removebg-preview.pUFAWM">
     <img src="https://im.ge/i/image-removebg-preview.pUFAWM.png" 
-         alt="pinkie pie" width="202" height="189">
+         alt="pinkie pie">
 </a>
 
