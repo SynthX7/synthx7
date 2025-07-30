@@ -6,7 +6,7 @@
 ### English 🇬🇧 / Learning...
 
 ### Visit count (yes i have a visit count, isn't cool?)
-![:name](https://count.getloli.com/@:synthx7)
+![:name](https://count.getloli.com/@synthx7?name=synthx7&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1)
 
 ##
 
